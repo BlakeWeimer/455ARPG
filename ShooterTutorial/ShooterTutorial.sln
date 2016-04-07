@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShooterTutorial.CSharp", "ShooterTutorial.CSharp.csproj", "{55B19440-07BA-23F0-A2E9-088DE1A4726E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShooterTutorial.CSharp.Editor", "ShooterTutorial.CSharp.Editor.csproj", "{DB700A0A-6FC0-5518-D9BF-CD1562EC3B3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55B19440-07BA-23F0-A2E9-088DE1A4726E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B19440-07BA-23F0-A2E9-088DE1A4726E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B19440-07BA-23F0-A2E9-088DE1A4726E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B19440-07BA-23F0-A2E9-088DE1A4726E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB700A0A-6FC0-5518-D9BF-CD1562EC3B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB700A0A-6FC0-5518-D9BF-CD1562EC3B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB700A0A-6FC0-5518-D9BF-CD1562EC3B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB700A0A-6FC0-5518-D9BF-CD1562EC3B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
